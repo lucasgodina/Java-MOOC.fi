@@ -1,4 +1,5 @@
-En este espacio subiré los ejercicios que fui realizando en el curso MOOC (Massive Online Open Course) de la Universidad de Helsinki, el cual se basa en Programación Orientada a Objetos utilizando el lenguaje Java.
+En este espacio subiré los ejercicios que fui realizando en el curso MOOC (Massive Online Open Course) de 
+la Universidad de Helsinki, el cual se basa en Programación Orientada a Objetos utilizando el lenguaje Java.
 
 Los contenidos de este curso son:
 -Module 1
