@@ -1,0 +1,1 @@
+Finished 1st half of the course
